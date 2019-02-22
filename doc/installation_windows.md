@@ -7,7 +7,7 @@ librealsense shall be built on Windows using [CMake v3.8+](https://cmake.org/dow
 <a name="cmake_snapshot_win">
    ![Windows CMake](./img/windows_cmake.png)
 </a>
-![link text][Win_cmake_image]
+
 
 Don't forget to check `BUILD_EXAMPLES` if you wish to use librealsense samples.
 
