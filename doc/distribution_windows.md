@@ -18,7 +18,7 @@ After plugging the camera into a USB3 port, you should be able to see the newly 
 
 ## Installing the SDK
 
-* Go to the [latest stable release](https://github.com/IntelRealSense/librealsense/releases/latest), navigate to the **Assets** section, download and run **Intel.RealSense.SDK.exe**:
+* Go to the [latest stable release](https://github.com/IntelRealSense/librealsense/releases/latest), navigate to the **Assets** section, download and run **rssetup-2.17.0.394.exe(rssetup-win7-2.17.0.394.exe for win7)**:
 
 * Click through several simple steps of the installer:
 1. Intel® RealSense™ SDK 2.0 is distributed under the [Apache 2.0](../LICENSE) permissive open-source license:
